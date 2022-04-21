@@ -1,0 +1,15 @@
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\LazyLoading.csproj.AssemblyReference.cache
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\LazyLoading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\LazyLoading.AssemblyInfoInputs.cache
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\LazyLoading.AssemblyInfo.cs
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\LazyLoading.csproj.CoreCompileInputs.cache
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\bin\Debug\net6.0\LazyLoading.exe
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\bin\Debug\net6.0\LazyLoading.deps.json
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\bin\Debug\net6.0\LazyLoading.runtimeconfig.json
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\bin\Debug\net6.0\LazyLoading.dll
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\bin\Debug\net6.0\LazyLoading.pdb
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\LazyLoading.dll
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\refint\LazyLoading.dll
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\LazyLoading.pdb
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\LazyLoading.genruntimeconfig.cache
+C:\Users\Ershad Raoufi\Desktop\oout\LazyLoading\LazyLoading\obj\Debug\net6.0\ref\LazyLoading.dll
